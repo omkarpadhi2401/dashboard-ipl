@@ -1,0 +1,79 @@
+# Raw & Processed Datasets (Strictly Excluded)
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.feather
+*.h5
+*.pkl
+*.pickle
+*.zip
+*.tar
+*.gz
+*.7z
+*.bak
+*.dwg
+*.db
+*.sqlite
+*.sqlite3
+
+# Document Deliverables (Strictly Excluded)
+*.pdf
+*.docx
+*.doc
+*.pptx
+*.ppt
+
+# Competition & Private Folders
+Data Pack/
+_private_work/
+data/
+website_data/
+approved_results/
+deliverables/
+player_photos/
+assets/player_photos/
+
+# Python Cache & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Secrets & Environment Variables
+.env
+.env.*
+*.key
+*.token
+*.pem
+secrets.json
+
+# IDE & OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo

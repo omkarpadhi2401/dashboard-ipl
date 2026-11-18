@@ -1,0 +1,10 @@
+# Needed only to re-run the analysis and rebuild the Excel, report and presentation files.
+# The dashboard itself needs none of these.
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1
+python-docx>=1.1
+python-pptx>=1.0
+matplotlib>=3.7
+Pillow>=10.0
+lxml>=4.9
